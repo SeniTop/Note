@@ -140,3 +140,26 @@ https://www.youtube.com/watch?v=-RSiS_5b9hU&t=6s
 
 47. Hacking From Scratch(Cracking ZIP Pasword file)
 https://www.youtube.com/watch?v=vR4NJ_9pBLc&t=210s
+
+---
+
+[TUTORIAL] Bagaimana Active Directory Domain Services diimplementasikan? Teman-teman bisa simak kumpulan tutorialnya disini ya:
+
+1. AD di Dunia Nyata Perusahaan Multinasional : https://youtu.be/Wrt0nMTZsxE
+
+2. AD di Dunia Nyata Perusahaan Besar Nasional : https://youtu.be/EUY9MRNyBqM
+
+3. AD di Dunia Nyata Perusahaan Skala Kecil Menengah : https://youtu.be/2ZRR4uNl164
+
+4. AD Physical vs Virtual : https://youtu.be/wubMQpMfLEM
+
+5. Question and Answer Active Directory: https://youtu.be/IHDh4tR0RMU
+
+6. Pengenalan Active Directory : https://youtu.be/VRC3i96cezE
+
+Play List Active Directory:
+
+https://www.youtube.com/playlist?list=PLuJxQVXgk38oIf-x-5RGub2kpqV7SAXXH
+
+Kunjungi Channel Saya untuk video saya yang lainnya ya:
+https://www.youtube.com/channel/UCikwGDYfTFWQxdiCqKvx6_w
